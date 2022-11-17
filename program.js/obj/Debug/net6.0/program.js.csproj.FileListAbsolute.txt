@@ -1,0 +1,15 @@
+C:\Users\99451\source\repos\program.js\program.js\bin\Debug\net6.0\program.js.exe
+C:\Users\99451\source\repos\program.js\program.js\bin\Debug\net6.0\program.js.deps.json
+C:\Users\99451\source\repos\program.js\program.js\bin\Debug\net6.0\program.js.runtimeconfig.json
+C:\Users\99451\source\repos\program.js\program.js\bin\Debug\net6.0\program.js.dll
+C:\Users\99451\source\repos\program.js\program.js\bin\Debug\net6.0\program.js.pdb
+C:\Users\99451\source\repos\program.js\program.js\obj\Debug\net6.0\program.js.csproj.AssemblyReference.cache
+C:\Users\99451\source\repos\program.js\program.js\obj\Debug\net6.0\program.js.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99451\source\repos\program.js\program.js\obj\Debug\net6.0\program.js.AssemblyInfoInputs.cache
+C:\Users\99451\source\repos\program.js\program.js\obj\Debug\net6.0\program.js.AssemblyInfo.cs
+C:\Users\99451\source\repos\program.js\program.js\obj\Debug\net6.0\program.js.csproj.CoreCompileInputs.cache
+C:\Users\99451\source\repos\program.js\program.js\obj\Debug\net6.0\program.js.dll
+C:\Users\99451\source\repos\program.js\program.js\obj\Debug\net6.0\refint\program.js.dll
+C:\Users\99451\source\repos\program.js\program.js\obj\Debug\net6.0\program.js.pdb
+C:\Users\99451\source\repos\program.js\program.js\obj\Debug\net6.0\program.js.genruntimeconfig.cache
+C:\Users\99451\source\repos\program.js\program.js\obj\Debug\net6.0\ref\program.js.dll
